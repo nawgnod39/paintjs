@@ -27,7 +27,6 @@ body {
   .controls .controls__btns {
     margin-bottom: 30px;
   }
-  
   .controls__btns button {
     all: unset;
     cursor: pointer;
@@ -43,6 +42,7 @@ body {
     font-weight: 800;
     font-size: 12px;
   }
+
   
   .controls__btns button:active {
     transform: scale(0.98);    
